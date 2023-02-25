@@ -9,12 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@near-wallet-selector/core": "^7.8.2",
+    "@near-wallet-selector/ledger": "^7.8.2",
+    "@near-wallet-selector/my-near-wallet": "^7.8.2",
     "@next/font": "13.1.6",
     "@types/node": "18.14.1",
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
     "eslint": "8.34.0",
     "eslint-config-next": "13.1.6",
+    "near-api-js": "^0.44.2",
     "next": "13.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
